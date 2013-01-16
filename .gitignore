@@ -1,0 +1,8 @@
+*.app
+*.beam
+*.d
+*.html
+*.dump
+.eunit
+/doc
+/deps
